@@ -1926,19 +1926,19 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="4.5" y="-22.548"/>
 </polygon>
 <text x="0" y="0" size="1.27" layer="51" rot="R90" align="center">Display Area</text>
-<smd name="13" x="2.4" y="-11.995" dx="0.23" dy="0.44" layer="16"/>
-<smd name="12" x="2.7" y="-14.755" dx="0.23" dy="0.34" layer="16"/>
-<smd name="11" x="3" y="-11.995" dx="0.23" dy="0.44" layer="16"/>
-<smd name="10" x="3.3" y="-14.755" dx="0.23" dy="0.34" layer="16"/>
-<smd name="9" x="3.6" y="-11.995" dx="0.23" dy="0.44" layer="16"/>
-<smd name="8" x="3.9" y="-14.755" dx="0.23" dy="0.34" layer="16"/>
-<smd name="7" x="4.2" y="-11.995" dx="0.23" dy="0.44" layer="16"/>
-<smd name="6" x="4.5" y="-14.755" dx="0.23" dy="0.34" layer="16"/>
-<smd name="5" x="4.8" y="-11.995" dx="0.23" dy="0.44" layer="16"/>
-<smd name="4" x="5.1" y="-14.755" dx="0.23" dy="0.34" layer="16"/>
-<smd name="3" x="5.4" y="-11.995" dx="0.23" dy="0.44" layer="16"/>
-<smd name="2" x="5.7" y="-14.755" dx="0.23" dy="0.34" layer="16"/>
-<smd name="1" x="6" y="-11.995" dx="0.23" dy="0.44" layer="16"/>
+<smd name="13" x="2.4" y="-11.795" dx="0.23" dy="1" layer="16"/>
+<smd name="12" x="2.7" y="-14.955" dx="0.23" dy="1" layer="16"/>
+<smd name="11" x="3" y="-11.795" dx="0.23" dy="1" layer="16"/>
+<smd name="10" x="3.3" y="-14.955" dx="0.23" dy="1" layer="16"/>
+<smd name="9" x="3.6" y="-11.795" dx="0.23" dy="1" layer="16"/>
+<smd name="8" x="3.9" y="-14.955" dx="0.23" dy="1" layer="16"/>
+<smd name="7" x="4.2" y="-11.795" dx="0.23" dy="1" layer="16"/>
+<smd name="6" x="4.5" y="-14.955" dx="0.23" dy="1" layer="16"/>
+<smd name="5" x="4.8" y="-11.795" dx="0.23" dy="1" layer="16"/>
+<smd name="4" x="5.1" y="-14.955" dx="0.23" dy="1" layer="16"/>
+<smd name="3" x="5.4" y="-11.795" dx="0.23" dy="1" layer="16"/>
+<smd name="2" x="5.7" y="-14.955" dx="0.23" dy="1" layer="16"/>
+<smd name="1" x="6" y="-11.795" dx="0.23" dy="1" layer="16"/>
 <wire x1="1.5" y1="-11.875" x2="1.5" y2="-14.825" width="0.002540625" layer="52"/>
 <wire x1="1.5" y1="-14.825" x2="6.9" y2="-14.825" width="0.002540625" layer="52"/>
 <wire x1="6.9" y1="-14.825" x2="6.9" y2="-11.875" width="0.002540625" layer="52"/>
